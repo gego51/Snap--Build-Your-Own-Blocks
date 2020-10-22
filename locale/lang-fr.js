@@ -942,7 +942,7 @@ SnapTranslator.dict.fr = {
 
     // scripting area
     'clean up':
-        'effacer',
+        'arranger',
     'arrange scripts\nvertically':
         'arrange scripts\nvertically',
     'add comment':
