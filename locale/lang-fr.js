@@ -370,6 +370,8 @@ SnapTranslator.dict.fr = {
         'montrer',
     'hide':
         'cacher',
+    'shown?':
+        'montré?'
     'go to %layer layer':
         'aller à l\u0027 %layer plan',
     'front':
