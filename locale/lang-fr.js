@@ -354,12 +354,18 @@ SnapTranslator.dict.fr = {
         'Salut !',
     'Hmm...':
         'Mmmh...',
+    //' (hum) of costume (hum) ':
+        //' (hum) du costume (hum) '
+    //'stretch (hum) x: %n y: %n %':
+        //'étirer (hum) x: %n y: %n %'
     'change %eff effect by %n':
         'ajouter \u00E0 l\u0027effet %eff %n',
     'set %eff effect to %n':
         'mettre l\u0027effet %eff \u00E0 %n',
     'clear graphic effects':
         'annuler les effets graphiques',
+    ' %eff effect':
+        'effet %eff'
     'change size by %n':
         'ajouter %n \u00E0 la taille',
     'set size to %n %':
