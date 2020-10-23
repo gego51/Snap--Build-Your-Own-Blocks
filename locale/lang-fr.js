@@ -413,23 +413,22 @@ SnapTranslator.dict.fr = {
         'stylo en position d\u0027\u00E9criture',
     'pen up':
         'relever le stylo',
+    'pen down?':
+        'stylo dessine?'
     'set pen color to %clr':
         'mettre la couleur %clr pour le stylo',
     'change pen color by %n':
         'ajouter %n \u00E0 la couleur du stylo',
     'set pen %hsva to %n':
         'mettre la %hsva du stylo à %n',
+    'pen %hsva':
+        'stylo %hsva'
     'hue':
         'teinte',
     'transparency':
         'transparence',
     'change pen %hsva by %n':
         'ajouter à la %hsva du stylo %n',
-
-    'change pen shade by %n':
-        'ajouter %n \u00E0 l\u0027intensit\u00E9 du stylo ',
-    'set pen shade to %n':
-        'choisir l\u0027intensit\u00E9 %n pour le stylo',
     'change pen size by %n':
         'ajouter %n \u00E0 la taille du stylo ',
     'set pen size to %n':
@@ -438,6 +437,8 @@ SnapTranslator.dict.fr = {
         'estampiller',
     'fill':
         'remplir',
+     //'past on '
+        //'stylo de '
 
       // control:
     'when %greenflag clicked':
